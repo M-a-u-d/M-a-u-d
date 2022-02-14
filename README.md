@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-a-u-d
 - 👀 I’m interested in sea sand and sun
-- 🌱 I’m currently learning fullstack developement
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me maudevers@gmail.com
 <!---
